@@ -5,7 +5,7 @@ both [VS Code](https://code.visualstudio.com/) and [Zed](https://zed.dev/).
 
 ## Usage
 
-These steps will create the folder for your new project. It should ne exist
+These steps will create the folder for your new project. It should not exist
 beforehand.
 
 The normal steps when using this is to navigate to the parent of your new
@@ -16,8 +16,8 @@ git clone https://github.com/tregusti/project-blueprint PROJECT_NAME
 cd PROJECT_NAME
 ```
 
-If you do not want to keep the history of this repo, in your new project,
-then also recreate the git repo.
+If you do not want to keep the history of this repo in your new project,
+then recreate the git repo.
 
 ```sh
 rm -rf .git
