@@ -1,7 +1,7 @@
 # Project blueprint
 
-This is a blueprint for new git managed js/ts projects with configs for
-both [VS Code](https://code.visualstudio.com/) and [Zed](https://zed.dev/).
+This is a blueprint for new git managed js/ts projects with configs for both
+[VS Code](https://code.visualstudio.com/) and [Zed](https://zed.dev/).
 
 It configures git, npm, editorconfig and prettier or biome.
 
@@ -33,8 +33,8 @@ git switch biome
 
 ### History
 
-If you do not want to keep the history of this repo in your new project,
-then recreate the git repo.
+If you do not want to keep the history of this repo in your new project, then
+recreate the git repo.
 
 ```sh
 rm -rf .git
