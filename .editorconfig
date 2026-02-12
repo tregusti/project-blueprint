@@ -1,7 +1,7 @@
 root = true
 
-# How prettier uses this config.
-# https://prettier.io/docs/api.html#prettierresolveconfigfileurlorpath--options
+# How biome uses this config.
+# https://biomejs.dev/reference/configuration/#formatteruseeditorconfig
 
 [*]
 charset = utf-8
